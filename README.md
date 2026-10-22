@@ -2,6 +2,12 @@
 
 A browser-based 3D endless driving game built with Three.js and WebGL. The game source is in `index.html`; no build step is required.
 
+
+## Play online
+**[Play Car-driving — Endless 3D](https://salarkhurram989.github.io/Car-driving/)**
+
+If the game page does not open, check that GitHub Pages is enabled in the repository settings (Settings → Pages) and that it is publishing from the branch containing `index.html`.
+
 ## Run the game
 - Open the repository's GitHub Pages site if Pages is enabled, or serve the repository using any static web server.
 - An internet connection is required to load Three.js from jsDelivr.
